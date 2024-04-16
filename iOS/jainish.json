@@ -1,0 +1,132 @@
+{
+  "inbox_count": 3,
+  "inbox": [
+    {
+      "aps": {
+        "alert": {
+          "title": "jainish 1",
+          "body": "Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.",
+          "subtitle": "It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform."
+        },
+        "mutable-content": true,
+        "category": "SmartechPN"
+      },
+      "smtSrc": "Smartech",
+      "smtCustomPayload": {},
+      "smtPayload": {
+        "trid": "123-123-1-1-9876543210-T",
+        "status": "Sent",
+        "publishedDate": "2023-01-05T16:08:15",
+        "attrParams": {
+          "__sta": "vhg.llmspsbt.vxff%7CJVQH",
+          "__stm_medium": "apn",
+          "__stm_source": "smartech",
+          "__stm_id": "4825"
+        },
+        "pnMeta": {},
+        "expiry": 1678026230,
+        "type": "Simple",
+        "deeplink": "",
+        "mediaUrl": "",
+        "timestamp": "1711695635493",
+        "app_inbox_category": "AITesting",
+        "app_inbox_ttl": "2024-09-09T05:45:03"
+      },
+      "smtUi": {
+        "lid": 1,
+        "flid": 1,
+        "bgc": "#aaa2db"
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "title": "jainish 2",
+          "body": "Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.",
+          "subtitle": "It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform."
+        },
+        "mutable-content": true,
+        "category": "SmartechPN"
+      },
+      "smtSrc": "Smartech",
+      "smtCustomPayload": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "smtPayload": {
+        "trid": "123-123-1-1-9876543211-T",
+        "status": "Sent",
+        "publishedDate": "2023-01-05T16:08:15",
+        "attrParams": {
+          "__sta": "vhg.llmspsbt.vxff%7CJVQH",
+          "__stm_medium": "apn",
+          "__stm_source": "smartech",
+          "__stm_id": "4825"
+        },
+        "pnMeta": {},
+        "htT": "<p><strong>Instead</strong> <em>of</em> <u>worrying</u> <s>about</s> <span style='color:#0052cc;'>what</span> <span style='background-color:#fbca04;'>you</span> <span style='color:#d4c5f9;'><span style='background-color:#b60205;'>cannot control</span></span>, <span style='color:#b60205;'><span style='background-color:#e99695;'>sh</span></span><span style='color:#fbca04;'><span style='background-color:#fef2c0;'>ift</span></span> <strong><span style='color:#0e8a16;'><span style='background-color:#c2e0c6;'>y</span></span></strong><em><u><span style='background-color:#c5def5;'>o</span></u><strong><s><span style='color:#5319e7;'><span style='background-color:#d4c5f9;'>ur</span></span></s></strong></em> <em><strong><u><s><span style='color:#006b75;'><span style='background-color:#bfdadc;'>energy to what you can create.</span></span></s></u></strong></em></p>",
+        "htB": "<p><strong><span style='color:#fef2c0;'><span style='background-color:#fbca04;'>Live the Life of Your Dreams: Be brave enough to</span></span></strong><span style='color:#fef2c0;'><span style='background-color:#fbca04;'> </span></span><em><span style='color:#fef2c0;'><span style='background-color:#fbca04;'>live the life of your dreams according</span></span></em><span style='color:#fef2c0;'><span style='background-color:#fbca04;'> </span></span><em><u><span style='color:#fef2c0;'><span style='background-color:#fbca04;'>to your vision and purpose instead of the</span></span></u></em><span style='color:#fef2c0;'><span style='background-color:#fbca04;'> </span></span><strong><s><span style='color:#c2e0c6;'><span style='background-color:#0e8a16;'>expectations and opinions of others.</span></span></s></strong></p>",
+        "htS": "<p><strong><s><span style='color:#0e8a16;'><span style='background-color:#c2e0c6;'>It’s only after you’ve stepped</span></span></s></strong> <em><u><span style='color:#b60205;'><span style='background-color:#e99695;'>outside your comfort zone that</span></span></u></em> <em><s><span style='color:#5319e7;'><span style='background-color:#d4c5f9;'>you begin to change</span></span></s></em>,<span style='color:#b60205;'><span style='background-color:#e99695;'> </span></span><strong><u><span style='color:#b60205;'><span style='background-color:#e99695;'>grow, and transform.</span></span></u></strong></p>",
+        "expiry": 1678026230,
+        "type": "Image",
+        "deeplink": "mailto:krutika@www.rrr?subject=][=-0987654321`~!@#$%^&*()_+|}{:?>< ಭಾಸ್जैश-ए-मोहम्मद के आतंकी&body=Body Body is Tश-ए-मोहम्मद के आतंकी&subject=qazxswedcvfrtgbnhyujmkiolp,.;'/][=-0987654321`~!@#$%^&*()_+|}{:?><ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಪ್ರಭಾಸ್जैश-ए-मोहम्मद के आतंक",
+        "mediaUrl": "https://cdnt.netcoresmartech.com/smartechapp-sdk/demo-assets/maps/demo-image-110.png",
+        "timestamp": "1711695709547",
+        "app_inbox_category": "AITesting",
+        "app_inbox_ttl": "2024-09-09T05:45:03"
+      },
+      "smtUi": {
+        "lid": 21,
+        "flid": 21,
+        "bgc": "#abc2db"
+      }
+    },
+    {
+      "aps": {
+        "alert": {
+          "title": "jainish 3",
+          "body": "Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.",
+          "subtitle": "It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform."
+        },
+        "mutable-content": true,
+        "category": "SmartechPN"
+      },
+      "smtSrc": "Smartech",
+      "smtCustomPayload": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "smtPayload": {
+        "trid": "123-123-1-1-9876543212-T",
+        "status": "Sent",
+        "publishedDate": "2023-01-05T16:08:15",
+        "attrParams": {
+          "__sta": "vhg.llmspsbt.vxff%7CJVQH",
+          "__stm_medium": "apn",
+          "__stm_source": "smartech",
+          "__stm_id": "4825"
+        },
+        "pnMeta": {},
+        "htT": "<p><strong>Instead</strong> <em>of</em> <u>worrying</u> <s>about</s> <span style='color:#0052cc;'>what</span> <span style='background-color:#fbca04;'>you</span> <span style='color:#d4c5f9;'><span style='background-color:#b60205;'>cannot control</span></span>, <span style='color:#b60205;'><span style='background-color:#e99695;'>sh</span></span><span style='color:#fbca04;'><span style='background-color:#fef2c0;'>ift</span></span> <strong><span style='color:#0e8a16;'><span style='background-color:#c2e0c6;'>y</span></span></strong><em><u><span style='background-color:#c5def5;'>o</span></u><strong><s><span style='color:#5319e7;'><span style='background-color:#d4c5f9;'>ur</span></span></s></strong></em> <em><strong><u><s><span style='color:#006b75;'><span style='background-color:#bfdadc;'>energy to what you can create.</span></span></s></u></strong></em></p>",
+        "htB": "<p><strong><span style='color:#fef2c0;'><span style='background-color:#fbca04;'>Live the Life of Your Dreams: Be brave enough to</span></span></strong><span style='color:#fef2c0;'><span style='background-color:#fbca04;'> </span></span><em><span style='color:#fef2c0;'><span style='background-color:#fbca04;'>live the life of your dreams according</span></span></em><span style='color:#fef2c0;'><span style='background-color:#fbca04;'> </span></span><em><u><span style='color:#fef2c0;'><span style='background-color:#fbca04;'>to your vision and purpose instead of the</span></span></u></em><span style='color:#fef2c0;'><span style='background-color:#fbca04;'> </span></span><strong><s><span style='color:#c2e0c6;'><span style='background-color:#0e8a16;'>expectations and opinions of others.</span></span></s></strong></p>",
+        "htS": "<p><strong><s><span style='color:#0e8a16;'><span style='background-color:#c2e0c6;'>It’s only after you’ve stepped</span></span></s></strong> <em><u><span style='color:#b60205;'><span style='background-color:#e99695;'>outside your comfort zone that</span></span></u></em> <em><s><span style='color:#5319e7;'><span style='background-color:#d4c5f9;'>you begin to change</span></span></s></em>,<span style='color:#b60205;'><span style='background-color:#e99695;'> </span></span><strong><u><span style='color:#b60205;'><span style='background-color:#e99695;'>grow, and transform.</span></span></u></strong></p>",
+        "expiry": 1678026230,
+        "type": "Gif",
+        "deeplink": "smartech://profile",
+        "mediaUrl": "https://www.zaccohn.com/images/gifs/3dsniffing.gif",
+        "timestamp": "1711695800446",
+        "app_inbox_category": "AITesting",
+        "app_inbox_ttl": "2024-09-09T05:45:03"
+      },
+      "smtUi": {
+        "lid": 41,
+        "flid": 41,
+        "bgc": "#1222db"
+      }
+    }
+  ],
+  "message": "success",
+  "code": 200
+}
